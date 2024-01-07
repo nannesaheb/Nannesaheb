@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nannesaheb Town</h1>
 <h3 align="center">CSE'24 | 200+ Leetcode | Java</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nannesaheb&label=Profile%20views&color=0e75b6&style=flat" alt="nannesaheb" /> </p>
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://media.tenor.com/pMYQAlYxa80AAAAC/coding.gif"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nannesaheb" alt="nannesaheb" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif">
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **nannesahebtown@gmail.com**
 
@@ -25,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nannesaheb&show_icons=true&locale=en&layout=compact" alt="nannesaheb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nannesaheb&show_icons=true&locale=en" alt="nannesaheb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nannesaheb&" alt="nannesaheb" /></p>
